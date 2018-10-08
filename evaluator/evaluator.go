@@ -1,8 +1,8 @@
 package evaluator
 
 import (
-	"github.com/sh70k/monkey/ast"
-	"github.com/sh70k/monkey/object"
+	"github.com/0shima_x/monkey/ast"
+	"github.com/0shima_x/monkey/object"
 )
 
 func Eval(node ast.Node) object.Object {

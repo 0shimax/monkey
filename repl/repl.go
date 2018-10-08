@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/sh70k/monkey/evaluator"
-	"github.com/sh70k/monkey/lexer"
-	"github.com/sh70k/monkey/parser"
+	"github.com/0shima_x/monkey/evaluator"
+	"github.com/0shima_x/monkey/lexer"
+	"github.com/0shima_x/monkey/parser"
 )
 
 const PROMPT = ">> "

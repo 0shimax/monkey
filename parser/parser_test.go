@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/sh70k/monkey/ast"
-	"github.com/sh70k/monkey/lexer"
+	"github.com/0shima_x/monkey/ast"
+	"github.com/0shima_x/monkey/lexer"
 )
 
 func TestLetStatements(t *testing.T) {
